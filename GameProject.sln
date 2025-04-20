@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "src\GameProj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "src\Models\Models.csproj", "{F83ABD8B-F49A-4187-B1E2-97DBEABF98E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "src\Services\Services.csproj", "{79A6BCCD-D803-4900-A5BF-1C9F09BF9827}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "src\API\API.csproj", "{F2B9B9C5-B2BE-4EC6-8A31-61EC42EF4635}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{F83ABD8B-F49A-4187-B1E2-97DBEABF98E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F83ABD8B-F49A-4187-B1E2-97DBEABF98E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F83ABD8B-F49A-4187-B1E2-97DBEABF98E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79A6BCCD-D803-4900-A5BF-1C9F09BF9827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79A6BCCD-D803-4900-A5BF-1C9F09BF9827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79A6BCCD-D803-4900-A5BF-1C9F09BF9827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79A6BCCD-D803-4900-A5BF-1C9F09BF9827}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2B9B9C5-B2BE-4EC6-8A31-61EC42EF4635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B9B9C5-B2BE-4EC6-8A31-61EC42EF4635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B9B9C5-B2BE-4EC6-8A31-61EC42EF4635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B9B9C5-B2BE-4EC6-8A31-61EC42EF4635}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
